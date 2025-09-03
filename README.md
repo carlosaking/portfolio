@@ -29,4 +29,4 @@ OneTimeApp is a scheduling and communication platform for caregivers. It allows 
 ## 🌐 Open Source Projects
 **Recipes App** - [GitHub](https://github.com/carlosaking/Recipes)
   
-A simple recipe management app I built with SwiftUI, featuring search, favorites, and offline support.
+A simple recipe app I built with SwiftUI, featuring search, favorites, and offline support.
